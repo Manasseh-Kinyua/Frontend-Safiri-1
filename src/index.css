@@ -128,3 +128,34 @@ nav ul a {
   width: 100%;
   border-radius: 20px;
 }
+/* *{
+  background-color: green;
+  color: white;
+} */
+.signup{
+  margin: 10%;
+  padding: 5%;
+  background-color: white;
+  width: 70%;
+}
+.user, 
+.email,
+.pass{
+  margin-bottom: 3%;
+  
+  font-size: 2em;
+ 
+}
+input{
+  border: 2px solid red;
+  padding: 1%;
+  margin-left: 5%;
+  background-color: white;
+  width: 50%;
+  font-size: 28px;
+  color: black;
+}
+label{
+  color: white;
+}
+
