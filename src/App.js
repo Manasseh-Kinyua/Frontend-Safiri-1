@@ -36,6 +36,9 @@ function App() {
         <Routes>
           <Route path='/profile' element={<Profile/>}></Route>
         </Routes>
+        <Routes>
+          <Route path='/login' element={<LoginPage/>}></Route>
+        </Routes>
       </BrowserRouter>
     </div>
 

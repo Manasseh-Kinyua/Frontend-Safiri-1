@@ -10,7 +10,7 @@ function NavBar() {
                     <li><a href="#">About</a></li>
                     <li><a href="/dashboard">Services</a></li>
                     <li><a href="#">Contact</a></li>
-                    <li><a href="#">LogIn/Sign Up</a></li>
+                    <li><a href="/login">LogIn/Sign Up</a></li>
                 </ul>
             </nav>
         </header>
