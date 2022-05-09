@@ -84,7 +84,8 @@ export default function Home(){
             <div><h3>Bus Booking</h3>
             <p>Check which bus is available, available seats, price per seat and book a seat online</p>
             <p>Our customers are our number one priolity.</p>
-            <button>Book Now</button>
+            
+            <button ><a href='/'>Book Now</a></button>
 
 
             </div>
@@ -92,12 +93,14 @@ export default function Home(){
             <div><h3>Driver Registration </h3>
             <p>Are you a driver and you would like to serve with us? </p>
             <p>It is easy, click the button below</p>
-            <button>Register as a Driver</button>
+            <button ><a href='/'>Driver Registration</a></button>
+            
             </div>
             <div><h3>Bus Registration</h3>
             <p>Are you a bus owner and you would like to get the value for your investment? </p>
             <p>Register your bus with us and relax, wait for the harvest.</p>
-            <button>Register a Bus</button>
+            <button><a href='/'>Register a Bus</a></button>
+            
             </div>
       
 

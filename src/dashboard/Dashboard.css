@@ -1,0 +1,34 @@
+.container{
+    /* background-color: rgb(231, 238, 217); */
+    margin-top: 20px;
+}
+.sidebar{
+    background-color: rgb(43, 226, 89);
+    position: relative;
+    height: 90vh;
+}
+.content{
+    background-color: aliceblue;
+    
+
+    
+    
+    /* display: flex; */
+
+}
+.content-cards{
+    align-items: flex-end;
+    margin-left: 300px;
+    
+   
+
+}
+.content-cards img{
+    width:30%;
+    padding: 10px;
+}
+.content img{
+    width: 70%;
+    justify-content:flex-end;
+    
+}

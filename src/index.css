@@ -9,6 +9,10 @@
   color: black;
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin
 nav {
   min-height: 10vh;
   padding: 1rem;
@@ -128,10 +132,18 @@ nav ul a {
   width: 100%;
   border-radius: 20px;
 }
+<<<<<<< HEAD
 /* *{
   background-color: green;
   color: white;
 } */
+=======
+=======
+*{
+  background-color: green;
+  color: white;
+}
+>>>>>>> origin
 .signup{
   margin: 10%;
   padding: 5%;
