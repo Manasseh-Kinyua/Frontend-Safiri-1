@@ -25,16 +25,16 @@ function App() {
 //     // </div >
 
     <div className="App">
-      
+      <NavBar></NavBar>
       <BrowserRouter>
         <Routes>
           <Route index element={<Home/>}></Route>
         </Routes>
         <Routes>
-          <Route index element={<Home/>}></Route>
+          <Route path='/dashboard' element={<Dashboard/>}></Route>
         </Routes>
         <Routes>
-          <Route index element={<Home/>}></Route>
+          <Route path='/profile' element={<Profile/>}></Route>
         </Routes>
       </BrowserRouter>
     </div>
